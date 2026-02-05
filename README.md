@@ -1,17 +1,17 @@
-# 🏦 National Bank System – Java Swing GUI
+# National Bank System – Java Swing GUI
 
 A modern **Banking Application** built with **Java Swing** that simulates core banking operations for both **Admins** and **Clients**.  
 This project demonstrates **GUI design, event handling, file persistence, and object-oriented programming concepts** in Java.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔑 Home Page
+### Home Page
 - Gradient background with a sleek UI  
 - Options for **Admin Login** and **Client Login**
 
-### 👨‍💼 Admin Panel
+### Admin Panel
 - Add new clients and accounts  
 - Search clients by CNIC  
 - Remove clients and their accounts  
@@ -19,20 +19,20 @@ This project demonstrates **GUI design, event handling, file persistence, and ob
 - Show all bank data  
 - Save and load data from file (`bankdata.txt`)
 
-### 👩‍💻 Client Panel
+### Client Panel
 - Add new accounts  
 - Deposit and withdraw funds  
 - View account details  
 - Exit and return to home  
 
-### 🎨 UI Highlights
+### UI Highlights
 - Custom-styled buttons with hover effects  
 - Tabbed navigation with colored tabs  
 - Console-like display area for logs and feedback  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Java Swing** – GUI framework  
 - **Java AWT** – Graphics and layout  
 - **OOP Concepts** – Inheritance, encapsulation, polymorphism  
@@ -40,7 +40,7 @@ This project demonstrates **GUI design, event handling, file persistence, and ob
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 src/
 -  BankingAppGUI4.java - Main GUI application
 -  Bank.java - Core banking logic
@@ -53,7 +53,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java JDK 8 or above  
