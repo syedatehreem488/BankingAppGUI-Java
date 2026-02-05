@@ -58,3 +58,10 @@ src/
 ### Prerequisites
 - Java JDK 8 or above  
 - An IDE IntelliJ
+
+---
+
+## Future Improvements
+- Add authentication for clients
+- Implement transaction history
+- Enhance UI with modern look (JavaFX or external libraries)
