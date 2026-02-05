@@ -42,13 +42,13 @@ This project demonstrates **GUI design, event handling, file persistence, and ob
 
 ## 📂 Project Structure
 src/
-├── BankingAppGUI4.java    # Main GUI application
-├── Bank.java              # Core banking logic
-├── Client.java            # Client details
-├── Account.java           # Account operations
-├── Person.java            # Person entity
-├── BankFileHandler.java   # File I/O for saving/loading data
-└── bankdata.txt           # Persistent storage file
+-  BankingAppGUI4.java - Main GUI application
+-  Bank.java - Core banking logic
+-  Client.java - Client details
+-  Account.java - Account operations
+-  Person.java - Person entity
+-  BankFileHandler.java - File I/O for saving/loading data
+-  bankdata.txt - Persistent storage file
 
 
 ---
